@@ -1,0 +1,542 @@
+═══════════════════════════════════════════════════════════════════════════════
+GRILLE DIAGNOSTIQUE v1 — PROJET DI-RUG
+APS : Rugby · Tronc commun · Niveau de contenu 1 · 8 séances
+BOUARGANE · CRMEF Inezgane · Section EPS · ADP2026
+Mode : MODE 2 — ENRICHISSEMENT DOCUMENTAIRE
+Date : 15/05/2026
+⚠ À valider par le formateur avant utilisation terrain (visa P3)
+═══════════════════════════════════════════════════════════════════════════════
+
+PRÉAMBULE — LOGIQUE DE CONSTRUCTION
+─────────────────────────────────────
+Objectif DI    : SITUER les élèves dans un profil de classe · pas les noter
+                 Aucune note /20 · aucune pondération
+Décision visée : Réguler la difficulté des situations (alléger · maintenir ·
+                 complexifier) selon l'évolution mesurée du ratio
+                 conservation/perte et des franchissements de ligne de gain
+Niveau retenu  : Niveau 1 (conduites de débutants absolus — arrière-plan 6e/5e)
+Écart stade    : OUI — les conduites observées sont inférieures au stade
+                 attendu pour le niveau scolaire du tronc commun
+                 → Les observables intègrent ce signal dans leur justification
+
+Source primaire : Ressources pour la classe Rugby · Niveau 1 et 2
+                  CRMEF Inezgane · ADP2026 (images référentiel jointes)
+Source secondaire : Fichier ADP2026_DI_RUG.xlsx · rempli en session
+                    (observables CB / FL / SO / RD / PD / OB)
+Source méthodo : Échanges de conception DI-RUG · conversation ADP2026
+                 Problématique 2 validée : conservation+franchissements → décision
+
+───────────────────────────────────────────────────────────────────────────────
+RAPPEL — SIGNIFICATION DES DEGRÉS
+───────────────────────────────────────────────────────────────────────────────
+Degré A  ·  Lacune dominante   · conduite de débutant absolu
+Degré B  ·  En construction    · conduite intermédiaire
+Degré C  ·  Maîtrisé           · conduite avancée · cible visée en fin de cycle
+───────────────────────────────────────────────────────────────────────────────
+
+
+═══════════════════════════════════════════════════════════════════════════════
+OBS-01 — CONSERVATION DU BALLON (ratio conservation / perte)
+═══════════════════════════════════════════════════════════════════════════════
+
+Justification de l'observable
+──────────────────────────────
+C'est l'indicateur central de la problématique 2 (DI-RUG).
+La conservation du ballon est le prérequis de tout projet de jeu offensif
+en rugby. Son absence signale un niveau de contenu 1 indiscutable.
+Écart stade : au tronc commun, un élève est censé avoir expérimenté
+la transmission du ballon en mouvement — les conduites observées montrent
+que ce n'est pas acquis, d'où la nécessité de le poser en OBS-01.
+Source : Référentiel rugby Niveau 1 · "Assurer la conservation de la balle
+lors des phases de blocage" · CRMEF Inezgane ADP2026
+
+DEGRÉ A — Code CB−
+  Conduite typique     : Ballon perdu dès la réception ou au premier contact
+  Comportement visible : L'élève lâche le ballon dès le contact · ou passe
+                         trop tard · l'équipe perd possession à chaque phase
+  Hypothèse explicative: Ce comportement traduit le fait que l'élève
+                         n'a pas encore intégré le réflexe de protection
+                         du ballon · il réagit au défenseur plutôt qu'il
+                         n'anticipe · son action est réactive et non projetée
+  Objet d'enseignement : Protéger le ballon au contact · se placer corps entre
+                         ballon et défenseur
+  Objectif de phase    : Que l'élève maintienne le ballon dans ses mains
+                         pendant au moins 2 secondes sous pression défensive
+
+DEGRÉ B — Code CB~
+  Conduite typique     : Ballon conservé par intermittence · 40–69 % possession
+  Comportement visible : L'élève protège parfois le ballon mais les pertes
+                         restent fréquentes · le jeu s'arrête souvent
+  Hypothèse explicative: Ce comportement traduit le fait que l'élève commence
+                         à protéger le ballon mais sa décision reste tardive ·
+                         il n'a pas encore automatisé la lecture du rapport
+                         de forces avant de recevoir la balle
+  Objet d'enseignement : Anticiper le soutien · décider avant la réception
+  Objectif de phase    : Que l'équipe atteigne 50 % de conservation
+                         sur une séquence de 6 minutes
+
+DEGRÉ C — Code CB+
+  Conduite typique     : Ballon conservé ≥ 70 % · jeu collectif continu
+  Comportement visible : L'élève protège le ballon · fixe le défenseur ·
+                         libère à temps · l'équipe enchaîne les phases de jeu
+  Hypothèse explicative: Ce comportement traduit le fait que l'élève
+                         a intégré la logique attaquant/défenseur · il gère
+                         simultanément le ballon et la pression adverse
+  Objet d'enseignement : Exploiter la conservation pour créer des décalages
+  Objectif de phase    : Que la conservation ≥ 70 % déclenche des
+                         franchissements de ligne de gain
+
+Outil de mesure terrain : Fiche observateur · cases pré-numérotées par phase
+                          Nb conservations / Nb possessions · par séquence
+Durée de saisie         : 3 secondes par phase
+Source                  : ADP2026_DI_RUG.xlsx · OBS-01 · session ADP2026
+
+
+═══════════════════════════════════════════════════════════════════════════════
+OBS-02 — FRANCHISSEMENT DE LA LIGNE DE GAIN
+═══════════════════════════════════════════════════════════════════════════════
+
+Justification de l'observable
+──────────────────────────────
+Deuxième indicateur de la problématique 2.
+Le franchissement de ligne de gain est la traduction collective de
+l'efficacité offensive : conserver n'est pas suffisant si l'équipe
+ne progresse pas. Il permet à l'enseignant de distinguer une équipe
+qui stationne (CB+ sans FL+) d'une équipe qui avance.
+Source : Référentiel rugby Niveau 2 · "franchissement de la ligne d'avantage"
+         CRMEF Inezgane ADP2026 · adapté au Niveau 1 (ligne de gain)
+
+DEGRÉ A — Code FL−
+  Conduite typique     : Aucun franchissement · équipe recule constamment
+  Comportement visible : L'équipe ne dépasse jamais la ligne de gain ·
+                         les porteurs de balle sont stoppés immédiatement
+                         ou reculent après réception
+  Hypothèse explicative: Ce comportement traduit le fait que l'équipe
+                         n'a pas de projet offensif collectif · chaque élève
+                         joue pour lui · il n'y a ni orientation vers l'en-but
+                         ni exploitation des espaces libres
+  Objet d'enseignement : Orienter collectivement le jeu vers l'en-but adverse
+  Objectif de phase    : Qu'au moins 1 élève dépasse la ligne de gain
+                         lors d'une séquence de 6 minutes
+
+DEGRÉ B — Code FL~
+  Conduite typique     : 1 à 2 franchissements par séquence · isolés
+  Comportement visible : L'équipe franchit la ligne de gain 1 ou 2 fois ·
+                         souvent de façon accidentelle ou individuelle
+                         sans continuité collective
+  Hypothèse explicative: Ce comportement traduit le fait qu'un ou deux élèves
+                         ont compris l'orientation vers l'en-but mais que
+                         le collectif n'exploite pas encore les espaces créés
+  Objet d'enseignement : Enchaîner les actions pour exploiter le franchissement
+  Objectif de phase    : Que l'équipe franchisse la ligne de gain
+                         au moins 2 fois par séquence de façon collective
+
+DEGRÉ C — Code FL+
+  Conduite typique     : ≥ 3 franchissements · avance collective régulière
+  Comportement visible : L'équipe franchit régulièrement la ligne de gain
+                         grâce à des choix délibérés · le jeu s'oriente
+                         toujours vers l'en-but adverse
+  Hypothèse explicative: Ce comportement traduit le fait que l'équipe
+                         a un projet de jeu offensif partagé · les élèves
+                         lisent collectivement les espaces et s'y engouffrent
+  Objet d'enseignement : Varier les angles d'attaque pour déséquilibrer
+                         la défense adverse
+  Objectif de phase    : Que les franchissements génèrent des situations
+                         de supériorité numérique exploitables
+
+Outil de mesure terrain : Fiche observateur · écrire nb franchissements
+                          par séquence · ligne de gain matérialisée au sol
+Durée de saisie         : 2 secondes par franchissement observé
+Source                  : ADP2026_DI_RUG.xlsx · OBS-02 · session ADP2026
+
+
+═══════════════════════════════════════════════════════════════════════════════
+OBS-03 — SOUTIEN OFFENSIF (placement et timing)
+═══════════════════════════════════════════════════════════════════════════════
+
+Justification de l'observable
+──────────────────────────────
+Le soutien offensif est le mécanisme qui permet la conservation (OBS-01)
+et le franchissement (OBS-02). Sans soutien, le porteur de balle est
+condamné à l'action individuelle. C'est l'observable qui révèle
+si les élèves ont intégré la notion de jeu collectif.
+Source : Référentiel rugby Niveau 1 · "Soutien proche et essentiellement
+         axial pour pousser ou relayer le PB" · CRMEF Inezgane ADP2026
+Écart stade : au tronc commun, le soutien devrait être connu · les conduites
+              montrent un jeu très individuel → écart confirmé
+
+DEGRÉ A — Code SO−
+  Conduite typique     : Porteur de balle seul à chaque réception
+  Comportement visible : Aucun partenaire en soutien proche · le porteur
+                         est systématiquement seul face aux défenseurs
+  Hypothèse explicative: Ce comportement traduit le fait que les élèves
+                         ne se déplacent pas en fonction du porteur de balle ·
+                         chacun attend son tour de recevoir plutôt que de
+                         se positionner pour aider
+  Objet d'enseignement : Se déplacer pour offrir une solution au porteur
+  Objectif de phase    : Qu'au moins 1 partenaire soit à moins de 2 mètres
+                         du porteur avant le contact défensif
+
+DEGRÉ B — Code SO~
+  Conduite typique     : Soutien présent mais tardif ou non axial
+  Comportement visible : Un partenaire s'approche du porteur mais arrive
+                         après le contact · ou se place sur le côté
+                         (soutien non axial · peu exploitable)
+  Hypothèse explicative: Ce comportement traduit le fait que l'élève
+                         a compris qu'il doit se rapprocher du porteur
+                         mais il n'a pas encore automatisé le placement
+                         axial ni l'anticipation du moment de contact
+  Objet d'enseignement : Placer le soutien dans l'axe de progression
+                         avant que le contact se produise
+  Objectif de phase    : Qu'un partenaire soit positionné axialement
+                         avant que le porteur reçoive la balle
+
+DEGRÉ C — Code SO+
+  Conduite typique     : Soutien axial proche systématique · porteur non isolé
+  Comportement visible : Au moins 1 partenaire est en soutien axial
+                         avant la réception · le porteur n'est jamais isolé ·
+                         l'équipe enchaîne les phases sans rupture
+  Hypothèse explicative: Ce comportement traduit le fait que les élèves
+                         ont intégré la règle de déplacement collectif ·
+                         ils anticipent le trajet du porteur et s'y adaptent
+  Objet d'enseignement : Coordonner le soutien avec la prise de décision du PB
+  Objectif de phase    : Que le soutien axial permette une continuité
+                         de 3 phases consécutives sans perte de balle
+
+Outil de mesure terrain : Observation directe enseignant · grille binaire
+                          soutien AXIal OUI/NON par action du porteur observé
+Durée de saisie         : 2 secondes · entourer A · B · C
+Source                  : ADP2026_DI_RUG.xlsx · OBS-03 · session ADP2026
+
+[ENRICHISSEMENT — source externe]
+Source : Gréhaigne J.-F. · "L'organisation du jeu en football" ·
+         Éditions ACTIO · 1992 · transposé rugby
+URL    : non disponible en ligne · ouvrage imprimé
+Apport : La notion de "rapport de forces offense/défense" permet de mieux
+         qualifier le degré A (porteur isolé = rapport de forces défavorable
+         systématique) et d'articuler OBS-03 avec OBS-04
+Statut : À valider par l'équipe avant intégration
+[FIN ENRICHISSEMENT]
+
+
+═══════════════════════════════════════════════════════════════════════════════
+OBS-04 — RIDEAU DÉFENSIF (constitution et respect)
+═══════════════════════════════════════════════════════════════════════════════
+
+Justification de l'observable
+──────────────────────────────
+Le rideau défensif est le symétrique offensif du soutien (OBS-03).
+Il révèle si les élèves ont compris que la défense est une action collective
+et non une suite d'interventions individuelles. Il conditionne directement
+les pertes de balle adverses mesurées en OBS-01.
+Source : Référentiel rugby Niveau 1 · "Constituer un rideau défensif
+         à distance réglementaire de charge à chaque arrêt de jeu" ·
+         CRMEF Inezgane ADP2026
+
+DEGRÉ A — Code RD−
+  Conduite typique     : Rideau absent · défenseurs dispersés individuellement
+  Comportement visible : Les défenseurs courent vers le ballon sans se
+                         coordonner · pas de ligne défensive visible ·
+                         de grands espaces libres existent entre les défenseurs
+  Hypothèse explicative: Ce comportement traduit le fait que les élèves
+                         confondent défense collective et course individuelle
+                         vers le porteur · ils n'ont pas de représentation
+                         de la ligne défensive comme outil tactique
+  Objet d'enseignement : Se placer en ligne face au porteur de balle adverse
+  Objectif de phase    : Qu'au moins 3 défenseurs forment une ligne visible
+                         à chaque arrêt de jeu
+
+DEGRÉ B — Code RD~
+  Conduite typique     : Rideau formé au début · rompu dès le 1er regroupement
+  Comportement visible : Un rideau défensif se forme à certains moments
+                         mais se disloque dès la première action adverse
+                         ou lors des regroupements
+  Hypothèse explicative: Ce comportement traduit le fait que les élèves
+                         savent former le rideau en situation statique
+                         mais ne maintiennent pas leur placement en cours
+                         de jeu · le mouvement adverse les désorganise
+  Objet d'enseignement : Reconstituer le rideau après chaque phase de jeu
+  Objectif de phase    : Que le rideau soit reconstitué dans les 3 secondes
+                         suivant chaque arrêt de jeu ou regroupement
+
+DEGRÉ C — Code RD+
+  Conduite typique     : Rideau constitué et avancé collectivement · systématique
+  Comportement visible : L'équipe défensive forme un rideau à distance
+                         réglementaire et avance collectivement à chaque phase ·
+                         les espaces entre défenseurs sont réduits
+  Hypothèse explicative: Ce comportement traduit le fait que les élèves
+                         ont intégré la défense comme action collective continue ·
+                         ils lisent le jeu adverse et s'adaptent en temps réel
+  Objet d'enseignement : Coordonner l'avancée du rideau avec le plaquage
+  Objectif de phase    : Que le rideau avancé génère des récupérations de balle
+                         ou des fautes adverses dans la zone de jeu
+
+Outil de mesure terrain : Observation directe enseignant · vue d'ensemble
+                          depuis derrière la défense · noter RD+ / RD~ / RD−
+                          par séquence défensive
+Durée de saisie         : 2 secondes · entourer A · B · C
+Source                  : ADP2026_DI_RUG.xlsx · OBS-04 · session ADP2026
+
+
+═══════════════════════════════════════════════════════════════════════════════
+OBS-05 — PRISE DE DÉCISION DU PORTEUR DE BALLE (PB)
+═══════════════════════════════════════════════════════════════════════════════
+
+Justification de l'observable
+──────────────────────────────
+La prise de décision du porteur de balle est le lien entre la perception
+(lire le jeu) et l'action (passer ou percuter). C'est l'observable qui
+distingue un jeu subi d'un jeu choisi. Il permet d'identifier si l'obstacle
+principal est moteur (ne sait pas faire) ou cognitif (ne sait pas décider).
+Source : Référentiel rugby Niveau 1 · "S'organiser pour percuter en protégeant
+         PB avec son corps · Ne pas s'isoler · Percevoir avant d'agir" ·
+         CRMEF Inezgane ADP2026
+
+DEGRÉ A — Code PD−
+  Conduite typique     : PB fonce sans lire le jeu · choix unique systématique
+  Comportement visible : Le porteur reçoit et fonce droit devant lui sans
+                         regarder partenaires ni espaces · perd le ballon
+                         au premier contact défensif
+  Hypothèse explicative: Ce comportement traduit le fait que l'élève
+                         est encore dans une logique réflexe (recevoir = courir)
+                         et non dans une logique tactique · il ne perçoit pas
+                         le jeu comme un problème à résoudre mais comme
+                         une course individuelle
+  Objet d'enseignement : Lever la tête avant de recevoir · identifier
+                         au moins 1 information avant d'agir
+  Objectif de phase    : Que le porteur regarde une fois autour de lui
+                         dans la seconde qui précède la réception
+
+DEGRÉ B — Code PD~
+  Conduite typique     : PB hésite · décision tardive ou aléatoire
+  Comportement visible : Le porteur regarde parfois autour de lui mais
+                         tarde à décider · sa passe arrive après que
+                         le défenseur l'a stoppé · choix parfois bon
+                         mais non répétable
+  Hypothèse explicative: Ce comportement traduit le fait que l'élève
+                         perçoit des informations mais ne les traite pas
+                         assez vite · il manque d'automatisation de la
+                         lecture du rapport de forces
+  Objet d'enseignement : Décider avant la réception · pré-programmer l'action
+  Objectif de phase    : Que le porteur choisisse et exécute en moins
+                         de 2 secondes après réception
+
+DEGRÉ C — Code PD+
+  Conduite typique     : PB lit la défense avant réception · passe ou percute vite
+  Comportement visible : Le porteur lit la défense avant de recevoir le ballon ·
+                         choisit rapidement entre pénétrer dans l'espace libre
+                         ou délivrer une passe utile au partenaire en soutien
+  Hypothèse explicative: Ce comportement traduit le fait que l'élève
+                         a intégré la lecture du jeu comme étape préalable
+                         à l'action · son traitement de l'information est
+                         automatisé et lui permet de jouer en anticipation
+  Objet d'enseignement : Varier les solutions selon la position défensive
+  Objectif de phase    : Que le porteur alterne pénétration et passe
+                         selon la position du défenseur · au moins 2 solutions
+                         différentes observées sur une séquence
+
+Outil de mesure terrain : Cibler 1 joueur fixe par séquence · noter son numéro
+                          sur la fiche · entourer A · B · C à chaque réception
+Durée de saisie         : 2 secondes
+Source                  : ADP2026_DI_RUG.xlsx · OBS-05 · session ADP2026
+
+[ENRICHISSEMENT — source externe]
+Source : Famose J.-P. · "Cognition et performance" · INSEP · 1990
+URL    : non disponible en ligne · ouvrage imprimé
+Apport : Le modèle perception-décision-action permet de qualifier précisément
+         l'écart entre PD− (action sans perception) et PD+ (anticipation) ·
+         utile pour formuler les hypothèses explicatives des degrés
+Statut : À valider par l'équipe avant intégration
+[FIN ENRICHISSEMENT]
+
+
+═══════════════════════════════════════════════════════════════════════════════
+OBS-06 — QUALITÉ DE L'OBSERVATION TERRAIN (rôle d'observateur)
+═══════════════════════════════════════════════════════════════════════════════
+
+Justification de l'observable
+──────────────────────────────
+Le rôle d'observateur est intégré au référentiel Niveau 1 (rubrique
+"Liées aux autres rôles · L'observateur"). Il est indissociable du projet DI
+car c'est l'observateur-élève qui produit les données utilisées pour la
+décision didactique (OBS-01 et OBS-02). Sans observateur fiable, la décision
+ne repose sur rien. C'est aussi un observable à part entière du profil de classe.
+Source : Référentiel rugby Niveau 1 · "Relever les résultats d'actions fiables
+         (pertes de balle · conditions d'essais)" · CRMEF Inezgane ADP2026
+
+DEGRÉ A — Code OB−
+  Conduite typique     : Fiche terrain vierge ou données non exploitables
+  Comportement visible : L'observateur regarde le match sans noter ·
+                         ou remplit la fiche de façon erronée ·
+                         aucune donnée utilisable pour l'enseignant
+  Hypothèse explicative: Ce comportement traduit le fait que l'élève
+                         n'a pas encore la capacité d'observer et d'agir
+                         simultanément · le jeu capte toute son attention ·
+                         il n'a pas compris la finalité du rôle d'observateur
+  Objet d'enseignement : Comprendre et accepter le rôle d'observateur
+                         comme contribution au projet collectif
+  Objectif de phase    : Que l'observateur remplisse au moins 50 %
+                         des cases de la fiche terrain à la fin de la séquence
+
+DEGRÉ B — Code OB~
+  Conduite typique     : Relevé partiel · données incomplètes mais lisibles
+  Comportement visible : L'observateur note certaines données (ex. franchissements)
+                         mais en oublie d'autres (ex. pertes de balle) ·
+                         la fiche est partiellement remplie
+  Hypothèse explicative: Ce comportement traduit le fait que l'élève
+                         a compris le principe du relevé mais sa capacité
+                         d'attention partagée est encore limitée ·
+                         il privilégie inconsciemment ce qui est le plus
+                         visible (franchissement) sur ce qui est continu
+                         (conservation/perte)
+  Objet d'enseignement : Maintenir l'attention sur 2 variables simultanément
+  Objectif de phase    : Que l'observateur complète l'ensemble des cases
+                         avec des données cohérentes sur 2 séquences
+
+DEGRÉ C — Code OB+
+  Conduite typique     : Relevé complet et fiable · données restituées à l'équipe
+  Comportement visible : L'observateur complète toutes les cases de la fiche ·
+                         les données sont cohérentes · il les communique
+                         oralement à son équipe en fin de séquence
+  Hypothèse explicative: Ce comportement traduit le fait que l'élève
+                         a intégré le rôle d'observateur comme un rôle actif
+                         et utile · il sait dissocier son attention du jeu
+                         pour la focaliser sur les indicateurs ciblés
+  Objet d'enseignement : Exploiter les données pour formuler un projet de jeu
+  Objectif de phase    : Que les données de l'observateur alimentent
+                         la décision didactique de l'enseignant en temps réel
+
+Outil de mesure terrain : Fiche terrain pré-remplie fournie par l'enseignant
+                          (cases à cocher · pas de calcul en direct) ·
+                          évaluation par l'enseignant en fin de séance
+Durée de saisie         : 5 secondes · évaluation en fin de séquence
+Note importante         : Les données OBS-06 (observateur) = données OBS-01
+                          (conservation) · cohérence DI totale
+Source                  : ADP2026_DI_RUG.xlsx · OBS-06 · session ADP2026
+                          Référentiel rugby Niveau 1 · CRMEF Inezgane ADP2026
+
+
+═══════════════════════════════════════════════════════════════════════════════
+TABLEAU SYNOPTIQUE — GRILLE v1 DI-RUG
+═══════════════════════════════════════════════════════════════════════════════
+
+N°      OBSERVABLE                    DEGRÉ A (CB−)        DEGRÉ B (CB~)        DEGRÉ C (CB+)
+──────  ────────────────────────────  ───────────────────  ───────────────────  ──────────────────
+OBS-01  Conservation du ballon        CB− · perte systém.  CB~ · intermittente  CB+ · ≥ 70 %
+OBS-02  Franchissement ligne gain     FL− · aucun          FL~ · 1–2/séquence   FL+ · ≥ 3
+OBS-03  Soutien offensif              SO− · porteur isolé  SO~ · tardif/latéral SO+ · axial systém.
+OBS-04  Rideau défensif               RD− · absent         RD~ · irrégulier     RD+ · systématique
+OBS-05  Décision porteur de balle     PD− · sans lecture   PD~ · tardive        PD+ · anticipée
+OBS-06  Observateur terrain           OB− · vide/erroné    OB~ · partiel        OB+ · complet+restit.
+
+PRIORITÉ DÉCISION DIDACTIQUE : OBS-01 + OBS-02 (problématique 2 DI-RUG)
+OBSERVABLES SECONDAIRES       : OBS-03 + OBS-04 (une séance = 1 observable max)
+OBSERVABLE COMPLÉMENTAIRE     : OBS-05 (cibler 1 joueur fixe par séquence)
+OBSERVABLE RÔLE SOCIAL        : OBS-06 (évaluation enseignant · fin de séance)
+
+
+═══════════════════════════════════════════════════════════════════════════════
+RÈGLE DE DÉCISION DIDACTIQUE — PROBLÉMATIQUE 2
+═══════════════════════════════════════════════════════════════════════════════
+
+Données collectées par OBS-01 et OBS-02 sur 2 séquences de 6 min :
+
+  Si OBS-01 ≤ 40 % ET OBS-02 = 0 franchissement
+  → Profil A dominant → ALLÉGER la situation
+    (réduire défenseurs · agrandir espace · règle : défenseur passif)
+
+  Si OBS-01 entre 40 et 69 % ET OBS-02 entre 1 et 2
+  → Profil B dominant → MAINTENIR la situation actuelle
+    (garder effectif et espace · varier les contraintes mineures)
+
+  Si OBS-01 ≥ 70 % ET OBS-02 ≥ 3 franchissements
+  → Profil C dominant → COMPLEXIFIER la situation
+    (ajouter défenseur · réduire espace · contrainte règlementaire)
+
+  Si profils mixtes (A+B ou B+C)
+  → Différencier les groupes selon profil observé
+    (groupes homogènes sur OBS-01 · situations différenciées)
+
+Fréquence de mesure : à partir de la séance 2 · toutes les 2 séances
+Seuil de décision   : majorité de la classe dans un même profil
+
+
+═══════════════════════════════════════════════════════════════════════════════
+PROCÉDURE TERRAIN — RAPPEL OPÉRATIONNEL
+═══════════════════════════════════════════════════════════════════════════════
+
+AVANT LA SÉANCE
+  · Matérialiser la ligne de gain au sol (cône ou marque)
+  · Distribuer les fiches terrain pré-remplie (1 par observateur)
+  · Identifier le joueur ciblé pour OBS-05 (1 par équipe)
+  · Identifier le genre si barème différencié (non applicable DI)
+
+PENDANT LA SÉANCE
+  · OBS-01 : compter conservations / possessions · fiche observateur
+  · OBS-02 : compter franchissements · fiche observateur
+  · OBS-03 ou OBS-04 : entourer A·B·C · 1 seul par séance · 2 sec max
+  · OBS-05 : entourer A·B·C sur joueur ciblé · à chaque réception
+  · OBS-06 : évaluer en fin de séquence · pas pendant le jeu
+
+APRÈS LA SÉANCE (5 minutes)
+  · Collecter toutes les fiches terrain
+  · Calculer ratio OBS-01 par équipe · noter OBS-02
+  · Appliquer la règle de décision didactique
+  · Annoncer la situation de la séance suivante
+
+RÈGLES DE SAISIE
+  · 1 seul code par case · jamais 2
+  · Doute → case vide + "?" · jamais inventer
+  · Code dominant = ce qui est vu EN PREMIER
+  · Stylo noir uniquement · pas de crayon
+  · Format temps si nécessaire : 10"2 · 1'30" · 0,90
+
+
+═══════════════════════════════════════════════════════════════════════════════
+SECTION F — TRAÇABILITÉ ET STATUT DES SOURCES
+═══════════════════════════════════════════════════════════════════════════════
+
+SOURCE 1 (primaire · MODE 1)
+  Document  : Ressources pour la classe · Rugby · Niveau 1 et 2
+  Auteur    : CRMEF Inezgane · Section EPS · ADP2026
+  Format    : Images référentiel jointes en conversation
+  Statut    : Conforme · termes exacts repris pour OBS-01·03·04·06
+  Limite    : Pas de descripteurs A/B/C chiffrés dans ce document ·
+              les degrés proposés sont cohérents mais non certifiés
+
+SOURCE 2 (session · MODE 1)
+  Document  : ADP2026_DI_RUG.xlsx · rempli en session ADP2026
+  Auteur    : Équipe DI-RUG · session 15/05/2026
+  Statut    : Conforme · 6 observables CB/FL/SO/RD/PD/OB repris intégralement
+  Limite    : Fichier produit en session · à viser par le formateur
+
+SOURCE 3 (session · MODE 1)
+  Document  : Problématique 2 validée · échanges DI-RUG
+  Auteur    : Session ADP2026 · 15/05/2026
+  Statut    : Conforme · règle de décision didactique issue directement
+              de la problématique retenue par l'équipe
+
+ENRICHISSEMENT 1 (externe · MODE 2)
+  Document  : Gréhaigne J.-F. · "L'organisation du jeu en football"
+  Statut    : À valider par l'équipe avant intégration · non certifié P3
+
+ENRICHISSEMENT 2 (externe · MODE 2)
+  Document  : Famose J.-P. · "Cognition et performance" · INSEP · 1990
+  Statut    : À valider par l'équipe avant intégration · non certifié P3
+
+FICHIER MANQUANT — synthese_TD1_rugby_DI-RUG.txt
+  Conséquence : Niveau de contenu (1) et écart stade (OUI) déduits
+                des conduites observées en session et du référentiel Niveau 1
+                → À confirmer sur la synthèse TD1 réelle avant P3
+
+FICHIER MANQUANT — Planificateur de Cycle EPS v5
+  Conséquence : La logique conduites→OE→objectif appliquée ici est cohérente
+                avec la méthodologie BOUARGANE mais non vérifiée ligne à ligne
+                → À confronter au planificateur v5 avant finalisation
+
+⚠ STATUT GLOBAL : Grille v1 · MODE 2 · à soumettre au visa formateur
+                  Ne pas utiliser en terrain avant validation P3
+
+═══════════════════════════════════════════════════════════════════════════════
+Fin du document · grille_v1_DI-RUG · ADP2026
+═══════════════════════════════════════════════════════════════════════════════
